@@ -1,8 +1,8 @@
 package frc.robot.subsystems;
 
-public class Intake {
+public class Wrist {
 
-    public Intake() {
+    public Wrist() {
 
 
         
