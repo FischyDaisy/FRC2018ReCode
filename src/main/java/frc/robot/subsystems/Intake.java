@@ -1,11 +1,18 @@
 package frc.robot.subsystems;
 
-public class Intake {
+import edu.wpi.first.wpilibj.command.Subsystem;
+
+public class Intake extends Subsystem {
 
     public Intake() {
 
 
         
+    }
+
+    @Override
+    protected void initDefaultCommand() {
+
     }
 
 }

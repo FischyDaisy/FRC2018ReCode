@@ -1,11 +1,18 @@
 package frc.robot.subsystems;
 
-public class Arm {
+import edu.wpi.first.wpilibj.command.Subsystem;
+
+public class Arm extends Subsystem {
 
     public Arm() {
 
 
         
+    }
+
+    @Override
+    protected void initDefaultCommand() {
+
     }
 
 }
