@@ -32,12 +32,14 @@ public class Arm extends Subsystem {
         /*
 
         */
+        return 0.0;
     }
 
     public double setAngle()
     {
         //Set the position of the arm
         //Send this to speed controller
+        return 0.0;
     }
 
 }
