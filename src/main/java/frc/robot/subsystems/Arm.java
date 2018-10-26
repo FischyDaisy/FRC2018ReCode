@@ -21,6 +21,9 @@ public class Arm extends Subsystem {
 
         //Call methods to move arm into stowed position. Stop moving when limit switches on lexan are closed.
         //When limit switches close, set a variable that stores position to zero
+
+       // TalonSRX mShoulderMotor1 = new TalonSRX();
+       // TalonSRX mShoulerMotor2 = new TalonSRX();
         }
 
     public double moveArm()

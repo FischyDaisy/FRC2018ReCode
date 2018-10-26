@@ -8,6 +8,7 @@ public class Wrist extends Subsystem {
         /*
             create method that tells to turn the wrist
             limit switch on wrist to prevent it from turning too much
+            Encoder for tracking wrist movement
         */
     }
 
